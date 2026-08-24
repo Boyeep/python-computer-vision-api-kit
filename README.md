@@ -1,5 +1,14 @@
 # Python Computer Vision API Kit
 
+[![npm version](https://img.shields.io/npm/v/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![npm downloads](https://img.shields.io/npm/dm/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![license](https://img.shields.io/github/license/Boyeep/python-computer-vision-api-kit)](https://github.com/Boyeep/python-computer-vision-api-kit/blob/main/LICENSE)
+
+Create a project directly from npm:
+
+```bash
+npx @boyeep/python-computer-vision-api-kit my-vision-api
+```
+
+
 A backend-only template for building typed computer-vision APIs with FastAPI,
 OpenCV, NumPy, and Pydantic. It contains no frontend application or JavaScript
 toolchain.
