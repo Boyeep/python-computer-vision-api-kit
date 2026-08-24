@@ -1,6 +1,6 @@
 # Python Computer Vision API Kit
 
-[![npm version](https://img.shields.io/npm/v/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![npm downloads](https://img.shields.io/npm/dm/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![license](https://img.shields.io/github/license/Boyeep/python-computer-vision-api-kit)](https://github.com/Boyeep/python-computer-vision-api-kit/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![npm downloads](https://img.shields.io/npm/dm/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit) [![license](https://img.shields.io/npm/l/%40boyeep%2Fpython-computer-vision-api-kit)](https://www.npmjs.com/package/@boyeep/python-computer-vision-api-kit)
 
 Create a project directly from npm:
 
